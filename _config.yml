@@ -1,0 +1,28 @@
+name: Approaching 50
+favicon: null
+layout_spectrum: 0.5274056810885668
+typography_spectrum: 0.2215241219382733
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.003596960799768567
+  lightness: 0.7132028338965029
+  saturation: 0.9212684077210724
+  rhythmicContrast: 0.5978127089329064
+purpose: []
