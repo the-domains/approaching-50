@@ -1,7 +1,7 @@
 name: Approaching 50
 favicon: null
-layout_spectrum: 0.5274056810885668
-typography_spectrum: 0.2215241219382733
+layout_spectrum: 1
+typography_spectrum: 0.48998
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.003596960799768567
+    - '#020202'
+    - '#ffffff'
+    - '#ff7c6e'
+    - '#53729a'
+    - '#ffbf61'
+  brandStrength: 0.5
   lightness: 0.7132028338965029
   saturation: 0.9212684077210724
   rhythmicContrast: 0.5978127089329064
